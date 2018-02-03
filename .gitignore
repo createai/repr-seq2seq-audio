@@ -1,4 +1,6 @@
 exp/deepspeech.pytorch/data/
+data/
+exp/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
